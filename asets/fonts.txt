@@ -1,0 +1,3 @@
+[MADETommySoft] medium for navigation
+[Montserrat] bold semi bold black 
+[Roboto] Regular
